@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.8f93306926afb42d1cf9a1c79236d855.js"
+  "/precache-manifest.2625596ff522f0edcab490f60d6a9daa.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "enamel"});
